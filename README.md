@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning python, sql, django
 - 💬 Ask me about python
 - 📫 How to reach me: rubenjms1@gmail.com
-- 😄 Pronouns: ele/dele
 - 🏃 Slow progress is better than no progress
 
 <div align="center">
