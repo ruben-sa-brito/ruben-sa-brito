@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python, sql, django
 - 💬 Ask me about python
 - 📫 How to reach me: rubenjms1@gmail.com
-- 🏃 Slow progress is better than no progress
+- 🌟 Meaningful learning
 
 <div align="center">
   <a href="https://github.com/ruben-sa-brito">
