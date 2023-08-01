@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/ruben-sa-brito">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruben-sa-brito&show_icons=true&theme=radical&include_all_commits"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruben-sa-brito&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ruben-sa-brito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-sa-brito&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
