@@ -34,5 +34,5 @@
   <a href="https://www.linkedin.com/in/ruben-s%C3%A1-20923a242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-  ![Snake animation](https://github.com/ruben-sa-brito/ruben-sa-brito/blob/output/github-snake-dark.svg)
+  ![Snake animation](https://github.com/ruben-sa-brito/ruben-sa-brito/blob/output/github-contribution-grid-snake.svg)
 </div>
