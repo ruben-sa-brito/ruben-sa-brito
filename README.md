@@ -33,6 +33,7 @@
   <a href = "mailto:rubenjms1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruben-s%C3%A1-20923a242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+![](https://github-readme-stats.vercel.app/username=ruben-sa-britoe&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-sa-brito&layout=compact)
 
-  ![Snake animation](https://github.com/ruben-sa-brito/ruben-sa-brito/blob/output/github-contribution-grid-snake.svg)
 </div>
