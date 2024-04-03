@@ -1,7 +1,7 @@
 ## Olá, me chamo Rúben, mas pode me chamar de James 😅
 
 
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning python
 - 💬 Ask me about python
 - 📫 How to reach me: rubenjms1@gmail.com
 - 🌟 Meaningful learning
