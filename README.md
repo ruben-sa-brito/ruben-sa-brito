@@ -6,6 +6,8 @@
 - 📫 How to reach me: rubenjms1@gmail.com
 - 🌟 Meaningful learning
 
+Solve my kata on codewars 😱: https://www.codewars.com/kata/66bdf9f511467a75cf5ff88b
+
 <div align="center">
   <a href="https://github.com/ruben-sa-brito">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruben-sa-brito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
