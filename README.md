@@ -6,6 +6,10 @@
 - 📫 How to reach me: rubenjms1@gmail.com
 - 🌟 Meaningful learning
 
+
+My rank on Codewars:  
+<img src="https://www.codewars.com/users/ruben-sa-brito/badges/large?logo=false">
+
 Solve my kata on codewars 😱: https://www.codewars.com/kata/66bdf9f511467a75cf5ff88b
 
 <div align="center">
