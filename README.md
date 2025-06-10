@@ -10,7 +10,9 @@
 My rank on Codewars:  
 <img src="https://www.codewars.com/users/ruben-sa-brito/badges/large?logo=false">
 
-Solve my kata on codewars 😱: https://www.codewars.com/kata/66bdf9f511467a75cf5ff88b
+Solve my katas on codewars 😱: 
+- https://www.codewars.com/kata/66bdf9f511467a75cf5ff88b
+- https://www.codewars.com/kata/67f2ef6f7ba2a69a66e3bd68
 
 <div align="center">
   <a href="https://github.com/ruben-sa-brito">
