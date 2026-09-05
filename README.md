@@ -15,12 +15,6 @@ Solve my katas on codewars 😱:
 - https://www.codewars.com/kata/67f2ef6f7ba2a69a66e3bd68
 
 <hr>
-
-<div align="center">
-  <a href="https://github.com/ruben-sa-brito">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruben-sa-brito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruben-sa-brito&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   
 
